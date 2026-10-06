@@ -1,0 +1,50 @@
+name: JMA public alerts
+on:
+  schedule:
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: jma-alerts
+  cancel-in-progress: false
+jobs:
+  alerts:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - uses: actions/cache@v4
+        with:
+          path: fetch-cache.json
+          key: jma-fetch-${{ github.run_id }}
+          restore-keys: jma-fetch-
+      - run: node worker.mjs
+      - name: Reserve changes before dispatch
+        run: |
+          git config user.name 'JMA alert worker'
+          git config user.email 'jma-worker@users.noreply.github.com'
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public warning state'
+            git push
+          fi
+      - run: node worker.mjs --send
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+      - name: Save delivery progress
+        if: always()
+        run: |
+          if [ -f state.json ]; then
+            git add state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Update public alert delivery state'
+              git push
+            fi
+          fi
