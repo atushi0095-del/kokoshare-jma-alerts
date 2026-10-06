@@ -1,0 +1,138 @@
+{
+  "initialized": true,
+  "records": {
+    "1340100:大雨": {
+      "code": "1340100",
+      "area": "八丈町",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-01T01:16:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1340100",
+      "rank": 1
+    },
+    "4721000:大雨": {
+      "code": "4721000",
+      "area": "糸満市",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-02T16:00:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4721000",
+      "rank": 1
+    },
+    "2210001:大雨": {
+      "code": "2210001",
+      "area": "静岡市南部",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-02T19:07:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2210001",
+      "rank": 1
+    },
+    "4721400:大雨": {
+      "code": "4721400",
+      "area": "宮古島市",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-04T16:17:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4721400",
+      "rank": 1
+    },
+    "0134601:大雨": {
+      "code": "0134601",
+      "area": "八雲町八雲",
+      "name": "レベル３大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-05T22:42:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
+      "rank": 1
+    },
+    "0134602:大雨": {
+      "code": "0134602",
+      "area": "八雲町熊石",
+      "name": "レベル３大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-05T22:42:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
+      "rank": 1
+    },
+    "0137000:大雨": {
+      "code": "0137000",
+      "area": "今金町",
+      "name": "レベル３大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-05T22:42:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
+      "rank": 1
+    },
+    "0137100:大雨": {
+      "code": "0137100",
+      "area": "せたな町",
+      "name": "レベル３大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-05T22:42:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
+      "rank": 1
+    },
+    "0110000:大雨": {
+      "code": "0110000",
+      "area": "札幌市",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-06T04:01:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0110000",
+      "rank": 1
+    },
+    "0121000:大雨": {
+      "code": "0121000",
+      "area": "岩見沢市",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-06T04:01:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0121000",
+      "rank": 1
+    },
+    "0123400:大雨": {
+      "code": "0123400",
+      "area": "北広島市",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-06T04:01:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123400",
+      "rank": 1
+    },
+    "0142300:大雨": {
+      "code": "0142300",
+      "area": "南幌町",
+      "name": "レベル２大雨注意報",
+      "level": "advisory",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-06T04:01:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0142300",
+      "rank": 1
+    }
+  },
+  "pending": []
+}
