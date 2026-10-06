@@ -1,0 +1,20 @@
+name: FCM authorization check (no delivery)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts
+      - name: Validate FCM permission without delivering a message
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+        run: node fcm-preflight.mjs
