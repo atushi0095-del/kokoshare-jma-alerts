@@ -45,7 +45,8 @@ export function parseBulletin(text) {
       if (!/^\d{7}$/.test(String(area.Code))) continue;
       for (const kind of list(item.Kind)) {
         const name = String(kind.Name || '');
-        if(String(kind.Code)==='00'&&['発表警報・注意報はなし','解除'].includes(name)) {
+        const explicitNone = !name && kind.Status === '発表警報・注意報はなし';
+        if(explicitNone || (String(kind.Code)==='00'&&['発表警報・注意報はなし','解除'].includes(name))) {
           const scoped=title.match(/（(暴風雪|大雨|洪水|暴風|大雪)）/);
           if(rank&&!scoped)continue;
           const phenomena=scoped?(scoped[1]==='暴風'?['暴風','暴風雪']:[scoped[1]]):['大雨','洪水','暴風','暴風雪','大雪'];

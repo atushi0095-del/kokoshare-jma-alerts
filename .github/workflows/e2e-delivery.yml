@@ -1,0 +1,29 @@
+name: One Chiyoda JMA delivery test
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'SEND_ONE_CHIYODA_TEST sends one clearly labelled test to the Chiyoda warning topic.'
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: jma-e2e
+  cancel-in-progress: false
+jobs:
+  send:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: node e2e-delivery.mjs
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          CONFIRM: ${{ inputs.confirm }}
