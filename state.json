@@ -52,7 +52,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
       "rank": 0
     },
@@ -63,7 +63,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
       "rank": 0
     },
@@ -74,7 +74,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
       "rank": 0
     },
@@ -85,7 +85,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
       "rank": 0
     },
@@ -811,7 +811,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820500",
       "rank": 0
     },
@@ -822,7 +822,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820500",
       "rank": 0
     },
@@ -833,7 +833,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820500",
       "rank": 0
     },
@@ -844,7 +844,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820500",
       "rank": 0
     },
@@ -855,7 +855,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820500",
       "rank": 0
     },
@@ -866,7 +866,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822400",
       "rank": 0
     },
@@ -877,7 +877,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822400",
       "rank": 0
     },
@@ -888,7 +888,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822400",
       "rank": 0
     },
@@ -899,7 +899,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822400",
       "rank": 0
     },
@@ -910,7 +910,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822400",
       "rank": 0
     },
@@ -921,7 +921,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822600",
       "rank": 0
     },
@@ -932,7 +932,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822600",
       "rank": 0
     },
@@ -943,7 +943,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822600",
       "rank": 0
     },
@@ -954,7 +954,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822600",
       "rank": 0
     },
@@ -965,7 +965,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T09:35:00+09:00",
+      "issuedAt": "2026-10-08T06:41:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822600",
       "rank": 0
     },
@@ -976,7 +976,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2610000",
       "rank": 0
     },
@@ -987,7 +987,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2610000",
       "rank": 0
     },
@@ -998,7 +998,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2610000",
       "rank": 0
     },
@@ -1009,7 +1009,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2610000",
       "rank": 0
     },
@@ -1020,7 +1020,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2610000",
       "rank": 0
     },
@@ -1086,7 +1086,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620500",
       "rank": 0
     },
@@ -1097,7 +1097,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620500",
       "rank": 0
     },
@@ -1108,7 +1108,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620500",
       "rank": 0
     },
@@ -1119,7 +1119,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620500",
       "rank": 0
     },
@@ -1130,7 +1130,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620500",
       "rank": 0
     },
@@ -1196,7 +1196,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620800",
       "rank": 0
     },
@@ -1207,7 +1207,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620800",
       "rank": 0
     },
@@ -1218,7 +1218,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620800",
       "rank": 0
     },
@@ -1229,7 +1229,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620800",
       "rank": 0
     },
@@ -1240,7 +1240,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620800",
       "rank": 0
     },
@@ -1251,7 +1251,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620900",
       "rank": 0
     },
@@ -1262,7 +1262,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620900",
       "rank": 0
     },
@@ -1273,7 +1273,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620900",
       "rank": 0
     },
@@ -1284,7 +1284,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620900",
       "rank": 0
     },
@@ -1295,7 +1295,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2620900",
       "rank": 0
     },
@@ -1416,7 +1416,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2621200",
       "rank": 0
     },
@@ -1427,7 +1427,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2621200",
       "rank": 0
     },
@@ -1438,7 +1438,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2621200",
       "rank": 0
     },
@@ -1449,7 +1449,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2621200",
       "rank": 0
     },
@@ -1460,7 +1460,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2621200",
       "rank": 0
     },
@@ -1526,7 +1526,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2630300",
       "rank": 0
     },
@@ -1537,7 +1537,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2630300",
       "rank": 0
     },
@@ -1548,7 +1548,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2630300",
       "rank": 0
     },
@@ -1559,7 +1559,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2630300",
       "rank": 0
     },
@@ -1570,7 +1570,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2630300",
       "rank": 0
     },
@@ -1966,7 +1966,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646300",
       "rank": 0
     },
@@ -1977,7 +1977,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646300",
       "rank": 0
     },
@@ -1988,7 +1988,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646300",
       "rank": 0
     },
@@ -1999,7 +1999,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646300",
       "rank": 0
     },
@@ -2010,7 +2010,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646300",
       "rank": 0
     },
@@ -2021,7 +2021,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646500",
       "rank": 0
     },
@@ -2032,7 +2032,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646500",
       "rank": 0
     },
@@ -2043,7 +2043,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646500",
       "rank": 0
     },
@@ -2054,7 +2054,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646500",
       "rank": 0
     },
@@ -2065,7 +2065,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-01T10:02:00+09:00",
+      "issuedAt": "2026-10-08T06:23:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2646500",
       "rank": 0
     },
@@ -7147,7 +7147,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123600",
       "rank": 0
     },
@@ -7158,7 +7158,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133100",
       "rank": 0
     },
@@ -7169,7 +7169,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133200",
       "rank": 0
     },
@@ -7180,7 +7180,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133300",
       "rank": 0
     },
@@ -7191,7 +7191,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133400",
       "rank": 0
     },
@@ -7202,7 +7202,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133700",
       "rank": 0
     },
@@ -7235,7 +7235,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134700",
       "rank": 0
     },
@@ -7246,7 +7246,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136100",
       "rank": 0
     },
@@ -7257,7 +7257,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136200",
       "rank": 0
     },
@@ -7268,7 +7268,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
       "rank": 0
     },
@@ -7279,7 +7279,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136400",
       "rank": 0
     },
@@ -7290,7 +7290,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136700",
       "rank": 0
     },
@@ -24010,7 +24010,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020100",
       "rank": 0
     },
@@ -24021,7 +24021,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020100",
       "rank": 0
     },
@@ -24032,7 +24032,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020100",
       "rank": 0
     },
@@ -24043,7 +24043,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020100",
       "rank": 0
     },
@@ -24054,7 +24054,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020100",
       "rank": 0
     },
@@ -24065,7 +24065,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020200",
       "rank": 0
     },
@@ -24076,7 +24076,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020200",
       "rank": 0
     },
@@ -24087,7 +24087,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020200",
       "rank": 0
     },
@@ -24098,7 +24098,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020200",
       "rank": 0
     },
@@ -24109,7 +24109,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020200",
       "rank": 0
     },
@@ -24120,7 +24120,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020300",
       "rank": 0
     },
@@ -24131,7 +24131,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020300",
       "rank": 0
     },
@@ -24142,7 +24142,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020300",
       "rank": 0
     },
@@ -24153,7 +24153,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020300",
       "rank": 0
     },
@@ -24164,7 +24164,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020300",
       "rank": 0
     },
@@ -24175,7 +24175,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020400",
       "rank": 0
     },
@@ -24186,7 +24186,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020400",
       "rank": 0
     },
@@ -24197,7 +24197,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020400",
       "rank": 0
     },
@@ -24208,7 +24208,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020400",
       "rank": 0
     },
@@ -24219,7 +24219,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020400",
       "rank": 0
     },
@@ -24230,7 +24230,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020500",
       "rank": 0
     },
@@ -24241,7 +24241,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020500",
       "rank": 0
     },
@@ -24252,7 +24252,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020500",
       "rank": 0
     },
@@ -24263,7 +24263,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020500",
       "rank": 0
     },
@@ -24274,7 +24274,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020500",
       "rank": 0
     },
@@ -24285,7 +24285,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020700",
       "rank": 0
     },
@@ -24296,7 +24296,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020700",
       "rank": 0
     },
@@ -24307,7 +24307,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020700",
       "rank": 0
     },
@@ -24318,7 +24318,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020700",
       "rank": 0
     },
@@ -24329,7 +24329,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020700",
       "rank": 0
     },
@@ -24340,7 +24340,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020800",
       "rank": 0
     },
@@ -24351,7 +24351,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020800",
       "rank": 0
     },
@@ -24362,7 +24362,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020800",
       "rank": 0
     },
@@ -24373,7 +24373,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020800",
       "rank": 0
     },
@@ -24384,7 +24384,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020800",
       "rank": 0
     },
@@ -24395,7 +24395,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020900",
       "rank": 0
     },
@@ -24406,7 +24406,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020900",
       "rank": 0
     },
@@ -24417,7 +24417,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020900",
       "rank": 0
     },
@@ -24428,7 +24428,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020900",
       "rank": 0
     },
@@ -24439,7 +24439,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1020900",
       "rank": 0
     },
@@ -24450,7 +24450,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021000",
       "rank": 0
     },
@@ -24461,7 +24461,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021000",
       "rank": 0
     },
@@ -24472,7 +24472,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021000",
       "rank": 0
     },
@@ -24483,7 +24483,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021000",
       "rank": 0
     },
@@ -24494,7 +24494,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021000",
       "rank": 0
     },
@@ -24505,7 +24505,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021100",
       "rank": 0
     },
@@ -24516,7 +24516,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021100",
       "rank": 0
     },
@@ -24527,7 +24527,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021100",
       "rank": 0
     },
@@ -24538,7 +24538,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021100",
       "rank": 0
     },
@@ -24549,7 +24549,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021100",
       "rank": 0
     },
@@ -24560,7 +24560,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021200",
       "rank": 0
     },
@@ -24571,7 +24571,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021200",
       "rank": 0
     },
@@ -24582,7 +24582,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021200",
       "rank": 0
     },
@@ -24593,7 +24593,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021200",
       "rank": 0
     },
@@ -24604,7 +24604,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1021200",
       "rank": 0
     },
@@ -24615,7 +24615,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034400",
       "rank": 0
     },
@@ -24626,7 +24626,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034400",
       "rank": 0
     },
@@ -24637,7 +24637,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034400",
       "rank": 0
     },
@@ -24648,7 +24648,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034400",
       "rank": 0
     },
@@ -24659,7 +24659,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034400",
       "rank": 0
     },
@@ -24670,7 +24670,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034500",
       "rank": 0
     },
@@ -24681,7 +24681,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034500",
       "rank": 0
     },
@@ -24692,7 +24692,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034500",
       "rank": 0
     },
@@ -24703,7 +24703,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034500",
       "rank": 0
     },
@@ -24714,7 +24714,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1034500",
       "rank": 0
     },
@@ -24725,7 +24725,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036600",
       "rank": 0
     },
@@ -24736,7 +24736,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036600",
       "rank": 0
     },
@@ -24747,7 +24747,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036600",
       "rank": 0
     },
@@ -24758,7 +24758,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036600",
       "rank": 0
     },
@@ -24769,7 +24769,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036600",
       "rank": 0
     },
@@ -24780,7 +24780,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036700",
       "rank": 0
     },
@@ -24791,7 +24791,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036700",
       "rank": 0
     },
@@ -24802,7 +24802,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036700",
       "rank": 0
     },
@@ -24813,7 +24813,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036700",
       "rank": 0
     },
@@ -24824,7 +24824,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1036700",
       "rank": 0
     },
@@ -24835,7 +24835,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038200",
       "rank": 0
     },
@@ -24846,7 +24846,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038200",
       "rank": 0
     },
@@ -24857,7 +24857,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038200",
       "rank": 0
     },
@@ -24868,7 +24868,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038200",
       "rank": 0
     },
@@ -24879,7 +24879,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038200",
       "rank": 0
     },
@@ -24890,7 +24890,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038300",
       "rank": 0
     },
@@ -24901,7 +24901,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038300",
       "rank": 0
     },
@@ -24912,7 +24912,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038300",
       "rank": 0
     },
@@ -24923,7 +24923,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038300",
       "rank": 0
     },
@@ -24934,7 +24934,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038300",
       "rank": 0
     },
@@ -24945,7 +24945,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038400",
       "rank": 0
     },
@@ -24956,7 +24956,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038400",
       "rank": 0
     },
@@ -24967,7 +24967,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038400",
       "rank": 0
     },
@@ -24978,7 +24978,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038400",
       "rank": 0
     },
@@ -24989,7 +24989,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1038400",
       "rank": 0
     },
@@ -25000,7 +25000,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1046400",
       "rank": 0
     },
@@ -25011,7 +25011,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1046400",
       "rank": 0
     },
@@ -25022,7 +25022,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1046400",
       "rank": 0
     },
@@ -25033,7 +25033,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1046400",
       "rank": 0
     },
@@ -25044,7 +25044,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1046400",
       "rank": 0
     },
@@ -25055,7 +25055,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052100",
       "rank": 0
     },
@@ -25066,7 +25066,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052100",
       "rank": 0
     },
@@ -25077,7 +25077,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052100",
       "rank": 0
     },
@@ -25088,7 +25088,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052100",
       "rank": 0
     },
@@ -25099,7 +25099,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052100",
       "rank": 0
     },
@@ -25110,7 +25110,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052200",
       "rank": 0
     },
@@ -25121,7 +25121,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052200",
       "rank": 0
     },
@@ -25132,7 +25132,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052200",
       "rank": 0
     },
@@ -25143,7 +25143,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052200",
       "rank": 0
     },
@@ -25154,7 +25154,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052200",
       "rank": 0
     },
@@ -25165,7 +25165,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052300",
       "rank": 0
     },
@@ -25176,7 +25176,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052300",
       "rank": 0
     },
@@ -25187,7 +25187,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052300",
       "rank": 0
     },
@@ -25198,7 +25198,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052300",
       "rank": 0
     },
@@ -25209,7 +25209,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052300",
       "rank": 0
     },
@@ -25220,7 +25220,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052400",
       "rank": 0
     },
@@ -25231,7 +25231,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052400",
       "rank": 0
     },
@@ -25242,7 +25242,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052400",
       "rank": 0
     },
@@ -25253,7 +25253,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052400",
       "rank": 0
     },
@@ -25264,7 +25264,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052400",
       "rank": 0
     },
@@ -25275,7 +25275,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052500",
       "rank": 0
     },
@@ -25286,7 +25286,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052500",
       "rank": 0
     },
@@ -25297,7 +25297,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052500",
       "rank": 0
     },
@@ -25308,7 +25308,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052500",
       "rank": 0
     },
@@ -25319,7 +25319,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T14:32:00+09:00",
+      "issuedAt": "2026-10-08T06:03:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1052500",
       "rank": 0
     },
@@ -27552,7 +27552,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123600",
       "rank": 0
     },
@@ -27563,7 +27563,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123600",
       "rank": 0
     },
@@ -27574,7 +27574,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133100",
       "rank": 0
     },
@@ -27585,7 +27585,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133100",
       "rank": 0
     },
@@ -27596,7 +27596,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133200",
       "rank": 0
     },
@@ -27607,7 +27607,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133200",
       "rank": 0
     },
@@ -27618,7 +27618,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133300",
       "rank": 0
     },
@@ -27629,7 +27629,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133300",
       "rank": 0
     },
@@ -27640,7 +27640,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133400",
       "rank": 0
     },
@@ -27651,7 +27651,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133400",
       "rank": 0
     },
@@ -27662,7 +27662,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133700",
       "rank": 0
     },
@@ -27673,7 +27673,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133700",
       "rank": 0
     },
@@ -27728,7 +27728,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
       "rank": 0
     },
@@ -27739,7 +27739,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
       "rank": 0
     },
@@ -27750,7 +27750,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134700",
       "rank": 0
     },
@@ -27761,7 +27761,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134700",
       "rank": 0
     },
@@ -27772,7 +27772,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136700",
       "rank": 0
     },
@@ -27783,7 +27783,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136700",
       "rank": 0
     },
@@ -27794,7 +27794,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123301",
       "rank": 0
     },
@@ -27805,7 +27805,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123301",
       "rank": 0
     },
@@ -27816,7 +27816,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123302",
       "rank": 0
     },
@@ -27827,7 +27827,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123302",
       "rank": 0
     },
@@ -27838,7 +27838,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157100",
       "rank": 0
     },
@@ -27849,7 +27849,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157100",
       "rank": 0
     },
@@ -27860,7 +27860,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157500",
       "rank": 0
     },
@@ -27871,7 +27871,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157500",
       "rank": 0
     },
@@ -27882,7 +27882,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158400",
       "rank": 0
     },
@@ -27893,7 +27893,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158400",
       "rank": 0
     },
@@ -27904,7 +27904,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160101",
       "rank": 0
     },
@@ -27915,7 +27915,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160101",
       "rank": 0
     },
@@ -27948,7 +27948,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160200",
       "rank": 0
     },
@@ -27959,7 +27959,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160200",
       "rank": 0
     },
@@ -34878,7 +34878,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220901",
       "rank": 0
     },
@@ -34889,7 +34889,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220901",
       "rank": 0
     },
@@ -34900,7 +34900,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220901",
       "rank": 1
     },
@@ -34911,7 +34911,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220901",
       "rank": 1
     },
@@ -34922,7 +34922,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220901",
       "rank": 0
     },
@@ -34933,7 +34933,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220902",
       "rank": 0
     },
@@ -34944,7 +34944,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220902",
       "rank": 0
     },
@@ -34955,7 +34955,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220902",
       "rank": 1
     },
@@ -34966,7 +34966,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220902",
       "rank": 1
     },
@@ -34977,7 +34977,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220902",
       "rank": 0
     },
@@ -34988,7 +34988,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221000",
       "rank": 0
     },
@@ -34999,7 +34999,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221000",
       "rank": 0
     },
@@ -35010,7 +35010,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221000",
       "rank": 1
     },
@@ -35021,7 +35021,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221000",
       "rank": 1
     },
@@ -35032,7 +35032,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221000",
       "rank": 0
     },
@@ -35043,7 +35043,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220202",
       "rank": 1
     },
@@ -35054,7 +35054,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220202",
       "rank": 1
     },
@@ -35065,7 +35065,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221100",
       "rank": 1
     },
@@ -35076,7 +35076,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221100",
       "rank": 1
     },
@@ -35087,7 +35087,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221202",
       "rank": 1
     },
@@ -35098,7 +35098,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221202",
       "rank": 1
     },
@@ -35109,7 +35109,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232300",
       "rank": 1
     },
@@ -35120,7 +35120,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232300",
       "rank": 1
     },
@@ -35131,7 +35131,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4238300",
       "rank": 1
     },
@@ -35142,7 +35142,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4238300",
       "rank": 1
     },
@@ -35153,7 +35153,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4241100",
       "rank": 1
     },
@@ -35164,7 +35164,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-07T21:15:00+09:00",
+      "issuedAt": "2026-10-08T06:04:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4241100",
       "rank": 1
     },
@@ -47011,7 +47011,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123600",
       "rank": 0
     },
@@ -47022,7 +47022,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123600",
       "rank": 0
     },
@@ -47033,7 +47033,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133100",
       "rank": 0
     },
@@ -47044,7 +47044,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133100",
       "rank": 0
     },
@@ -47055,7 +47055,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133200",
       "rank": 0
     },
@@ -47066,7 +47066,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133200",
       "rank": 0
     },
@@ -47077,7 +47077,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133300",
       "rank": 0
     },
@@ -47088,7 +47088,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133300",
       "rank": 0
     },
@@ -47099,7 +47099,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133400",
       "rank": 0
     },
@@ -47110,7 +47110,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133400",
       "rank": 0
     },
@@ -47121,7 +47121,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133700",
       "rank": 0
     },
@@ -47132,7 +47132,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0133700",
       "rank": 0
     },
@@ -47143,7 +47143,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
       "rank": 0
     },
@@ -47154,7 +47154,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
       "rank": 0
     },
@@ -47165,7 +47165,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
       "rank": 0
     },
@@ -47176,7 +47176,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
       "rank": 0
     },
@@ -47187,7 +47187,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
       "rank": 0
     },
@@ -47198,7 +47198,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134602",
       "rank": 0
     },
@@ -47209,7 +47209,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134700",
       "rank": 0
     },
@@ -47220,7 +47220,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134700",
       "rank": 0
     },
@@ -47231,7 +47231,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136100",
       "rank": 0
     },
@@ -47242,7 +47242,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136100",
       "rank": 0
     },
@@ -47253,7 +47253,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136100",
       "rank": 0
     },
@@ -47264,7 +47264,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136100",
       "rank": 0
     },
@@ -47275,7 +47275,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136200",
       "rank": 0
     },
@@ -47286,7 +47286,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136200",
       "rank": 0
     },
@@ -47297,7 +47297,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136200",
       "rank": 0
     },
@@ -47308,7 +47308,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136200",
       "rank": 0
     },
@@ -47319,7 +47319,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
       "rank": 0
     },
@@ -47330,7 +47330,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
       "rank": 0
     },
@@ -47341,7 +47341,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
       "rank": 0
     },
@@ -47352,7 +47352,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
       "rank": 0
     },
@@ -47363,7 +47363,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136400",
       "rank": 0
     },
@@ -47374,7 +47374,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136400",
       "rank": 0
     },
@@ -47385,7 +47385,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136400",
       "rank": 0
     },
@@ -47396,7 +47396,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136400",
       "rank": 0
     },
@@ -47407,7 +47407,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136700",
       "rank": 0
     },
@@ -47418,7 +47418,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136700",
       "rank": 0
     },
@@ -47429,7 +47429,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
       "rank": 0
     },
@@ -47440,7 +47440,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
       "rank": 0
     },
@@ -47451,7 +47451,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
       "rank": 0
     },
@@ -47462,7 +47462,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137000",
       "rank": 0
     },
@@ -47473,7 +47473,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
       "rank": 0
     },
@@ -47484,7 +47484,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
       "rank": 0
     },
@@ -47495,7 +47495,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
       "rank": 0
     },
@@ -47506,7 +47506,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:33:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0137100",
       "rank": 0
     },
@@ -48551,7 +48551,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123301",
       "rank": 0
     },
@@ -48562,7 +48562,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123301",
       "rank": 0
     },
@@ -48573,7 +48573,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123301",
       "rank": 0
     },
@@ -48584,7 +48584,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123302",
       "rank": 0
     },
@@ -48595,7 +48595,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123302",
       "rank": 0
     },
@@ -48606,7 +48606,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123302",
       "rank": 0
     },
@@ -48617,7 +48617,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157100",
       "rank": 0
     },
@@ -48628,7 +48628,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157100",
       "rank": 0
     },
@@ -48639,7 +48639,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157100",
       "rank": 0
     },
@@ -48650,7 +48650,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157500",
       "rank": 0
     },
@@ -48661,7 +48661,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157500",
       "rank": 0
     },
@@ -48672,7 +48672,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0157500",
       "rank": 0
     },
@@ -48683,7 +48683,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158400",
       "rank": 0
     },
@@ -48694,7 +48694,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158400",
       "rank": 0
     },
@@ -48705,7 +48705,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158400",
       "rank": 0
     },
@@ -48716,7 +48716,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158500",
       "rank": 0
     },
@@ -48727,7 +48727,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158500",
       "rank": 0
     },
@@ -48738,7 +48738,7 @@
       "level": "warning",
       "phenomenon": "暴風",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158500",
       "rank": 0
     },
@@ -48749,7 +48749,7 @@
       "level": "warning",
       "phenomenon": "暴風雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158500",
       "rank": 0
     },
@@ -48760,7 +48760,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0158500",
       "rank": 0
     },
@@ -48771,7 +48771,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160101",
       "rank": 0
     },
@@ -48782,7 +48782,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160101",
       "rank": 0
     },
@@ -48793,7 +48793,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160101",
       "rank": 0
     },
@@ -48804,7 +48804,7 @@
       "level": "warning",
       "phenomenon": "大雨",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160200",
       "rank": 0
     },
@@ -48815,7 +48815,7 @@
       "level": "warning",
       "phenomenon": "洪水",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160200",
       "rank": 0
     },
@@ -48826,7 +48826,7 @@
       "level": "warning",
       "phenomenon": "大雪",
       "active": false,
-      "issuedAt": "2026-10-08T04:57:00+09:00",
+      "issuedAt": "2026-10-08T07:34:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0160200",
       "rank": 0
     },
@@ -52227,6 +52227,1722 @@
       "active": false,
       "issuedAt": "2026-10-08T04:57:00+09:00",
       "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0147200",
+      "rank": 0
+    },
+    "4220100:暴風": {
+      "code": "4220100",
+      "area": "長崎市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220100",
+      "rank": 1
+    },
+    "4220100:暴風雪": {
+      "code": "4220100",
+      "area": "長崎市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220100",
+      "rank": 1
+    },
+    "4220201:暴風": {
+      "code": "4220201",
+      "area": "佐世保市（宇久地域を除く）",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220201",
+      "rank": 1
+    },
+    "4220201:暴風雪": {
+      "code": "4220201",
+      "area": "佐世保市（宇久地域を除く）",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220201",
+      "rank": 1
+    },
+    "4220300:暴風": {
+      "code": "4220300",
+      "area": "島原市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220300",
+      "rank": 1
+    },
+    "4220300:暴風雪": {
+      "code": "4220300",
+      "area": "島原市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220300",
+      "rank": 1
+    },
+    "4220400:暴風": {
+      "code": "4220400",
+      "area": "諫早市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220400",
+      "rank": 1
+    },
+    "4220400:暴風雪": {
+      "code": "4220400",
+      "area": "諫早市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220400",
+      "rank": 1
+    },
+    "4220500:暴風": {
+      "code": "4220500",
+      "area": "大村市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220500",
+      "rank": 1
+    },
+    "4220500:暴風雪": {
+      "code": "4220500",
+      "area": "大村市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220500",
+      "rank": 1
+    },
+    "4221201:暴風": {
+      "code": "4221201",
+      "area": "西海市（江島・平島を除く）",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221201",
+      "rank": 1
+    },
+    "4221201:暴風雪": {
+      "code": "4221201",
+      "area": "西海市（江島・平島を除く）",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221201",
+      "rank": 1
+    },
+    "4221300:暴風": {
+      "code": "4221300",
+      "area": "雲仙市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221300",
+      "rank": 1
+    },
+    "4221300:暴風雪": {
+      "code": "4221300",
+      "area": "雲仙市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221300",
+      "rank": 1
+    },
+    "4221400:暴風": {
+      "code": "4221400",
+      "area": "南島原市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221400",
+      "rank": 1
+    },
+    "4221400:暴風雪": {
+      "code": "4221400",
+      "area": "南島原市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4221400",
+      "rank": 1
+    },
+    "4230700:暴風": {
+      "code": "4230700",
+      "area": "長与町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4230700",
+      "rank": 1
+    },
+    "4230700:暴風雪": {
+      "code": "4230700",
+      "area": "長与町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4230700",
+      "rank": 1
+    },
+    "4230800:暴風": {
+      "code": "4230800",
+      "area": "時津町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4230800",
+      "rank": 1
+    },
+    "4230800:暴風雪": {
+      "code": "4230800",
+      "area": "時津町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4230800",
+      "rank": 1
+    },
+    "4232100:暴風": {
+      "code": "4232100",
+      "area": "東彼杵町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232100",
+      "rank": 1
+    },
+    "4232100:暴風雪": {
+      "code": "4232100",
+      "area": "東彼杵町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232100",
+      "rank": 1
+    },
+    "4232200:暴風": {
+      "code": "4232200",
+      "area": "川棚町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232200",
+      "rank": 1
+    },
+    "4232200:暴風雪": {
+      "code": "4232200",
+      "area": "川棚町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4232200",
+      "rank": 1
+    },
+    "4239100:暴風": {
+      "code": "4239100",
+      "area": "佐々町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4239100",
+      "rank": 1
+    },
+    "4239100:暴風雪": {
+      "code": "4239100",
+      "area": "佐々町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:04:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4239100",
+      "rank": 1
+    },
+    "2810100:大雨": {
+      "code": "2810100",
+      "area": "神戸市東灘区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810100",
+      "rank": 0
+    },
+    "2810100:洪水": {
+      "code": "2810100",
+      "area": "神戸市東灘区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810100",
+      "rank": 0
+    },
+    "2810100:暴風": {
+      "code": "2810100",
+      "area": "神戸市東灘区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810100",
+      "rank": 0
+    },
+    "2810100:暴風雪": {
+      "code": "2810100",
+      "area": "神戸市東灘区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810100",
+      "rank": 0
+    },
+    "2810100:大雪": {
+      "code": "2810100",
+      "area": "神戸市東灘区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810100",
+      "rank": 0
+    },
+    "2810200:大雨": {
+      "code": "2810200",
+      "area": "神戸市灘区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810200",
+      "rank": 0
+    },
+    "2810200:洪水": {
+      "code": "2810200",
+      "area": "神戸市灘区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810200",
+      "rank": 0
+    },
+    "2810200:暴風": {
+      "code": "2810200",
+      "area": "神戸市灘区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810200",
+      "rank": 0
+    },
+    "2810200:暴風雪": {
+      "code": "2810200",
+      "area": "神戸市灘区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810200",
+      "rank": 0
+    },
+    "2810200:大雪": {
+      "code": "2810200",
+      "area": "神戸市灘区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810200",
+      "rank": 0
+    },
+    "2810500:大雨": {
+      "code": "2810500",
+      "area": "神戸市兵庫区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810500",
+      "rank": 0
+    },
+    "2810500:洪水": {
+      "code": "2810500",
+      "area": "神戸市兵庫区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810500",
+      "rank": 0
+    },
+    "2810500:暴風": {
+      "code": "2810500",
+      "area": "神戸市兵庫区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810500",
+      "rank": 0
+    },
+    "2810500:暴風雪": {
+      "code": "2810500",
+      "area": "神戸市兵庫区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810500",
+      "rank": 0
+    },
+    "2810500:大雪": {
+      "code": "2810500",
+      "area": "神戸市兵庫区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810500",
+      "rank": 0
+    },
+    "2810600:大雨": {
+      "code": "2810600",
+      "area": "神戸市長田区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810600",
+      "rank": 0
+    },
+    "2810600:洪水": {
+      "code": "2810600",
+      "area": "神戸市長田区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810600",
+      "rank": 0
+    },
+    "2810600:暴風": {
+      "code": "2810600",
+      "area": "神戸市長田区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810600",
+      "rank": 0
+    },
+    "2810600:暴風雪": {
+      "code": "2810600",
+      "area": "神戸市長田区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810600",
+      "rank": 0
+    },
+    "2810600:大雪": {
+      "code": "2810600",
+      "area": "神戸市長田区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810600",
+      "rank": 0
+    },
+    "2810700:大雨": {
+      "code": "2810700",
+      "area": "神戸市須磨区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810700",
+      "rank": 0
+    },
+    "2810700:洪水": {
+      "code": "2810700",
+      "area": "神戸市須磨区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810700",
+      "rank": 0
+    },
+    "2810700:暴風": {
+      "code": "2810700",
+      "area": "神戸市須磨区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810700",
+      "rank": 0
+    },
+    "2810700:暴風雪": {
+      "code": "2810700",
+      "area": "神戸市須磨区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810700",
+      "rank": 0
+    },
+    "2810700:大雪": {
+      "code": "2810700",
+      "area": "神戸市須磨区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810700",
+      "rank": 0
+    },
+    "2810800:大雨": {
+      "code": "2810800",
+      "area": "神戸市垂水区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810800",
+      "rank": 0
+    },
+    "2810800:洪水": {
+      "code": "2810800",
+      "area": "神戸市垂水区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810800",
+      "rank": 0
+    },
+    "2810800:暴風": {
+      "code": "2810800",
+      "area": "神戸市垂水区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810800",
+      "rank": 0
+    },
+    "2810800:暴風雪": {
+      "code": "2810800",
+      "area": "神戸市垂水区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810800",
+      "rank": 0
+    },
+    "2810800:大雪": {
+      "code": "2810800",
+      "area": "神戸市垂水区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810800",
+      "rank": 0
+    },
+    "2810900:大雨": {
+      "code": "2810900",
+      "area": "神戸市北区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810900",
+      "rank": 0
+    },
+    "2810900:洪水": {
+      "code": "2810900",
+      "area": "神戸市北区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810900",
+      "rank": 0
+    },
+    "2810900:暴風": {
+      "code": "2810900",
+      "area": "神戸市北区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810900",
+      "rank": 0
+    },
+    "2810900:暴風雪": {
+      "code": "2810900",
+      "area": "神戸市北区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810900",
+      "rank": 0
+    },
+    "2810900:大雪": {
+      "code": "2810900",
+      "area": "神戸市北区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2810900",
+      "rank": 0
+    },
+    "2811000:大雨": {
+      "code": "2811000",
+      "area": "神戸市中央区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811000",
+      "rank": 0
+    },
+    "2811000:洪水": {
+      "code": "2811000",
+      "area": "神戸市中央区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811000",
+      "rank": 0
+    },
+    "2811000:暴風": {
+      "code": "2811000",
+      "area": "神戸市中央区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811000",
+      "rank": 0
+    },
+    "2811000:暴風雪": {
+      "code": "2811000",
+      "area": "神戸市中央区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811000",
+      "rank": 0
+    },
+    "2811000:大雪": {
+      "code": "2811000",
+      "area": "神戸市中央区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811000",
+      "rank": 0
+    },
+    "2811100:大雨": {
+      "code": "2811100",
+      "area": "神戸市西区",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811100",
+      "rank": 0
+    },
+    "2811100:洪水": {
+      "code": "2811100",
+      "area": "神戸市西区",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811100",
+      "rank": 0
+    },
+    "2811100:暴風": {
+      "code": "2811100",
+      "area": "神戸市西区",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811100",
+      "rank": 0
+    },
+    "2811100:暴風雪": {
+      "code": "2811100",
+      "area": "神戸市西区",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811100",
+      "rank": 0
+    },
+    "2811100:大雪": {
+      "code": "2811100",
+      "area": "神戸市西区",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2811100",
+      "rank": 0
+    },
+    "2820200:大雨": {
+      "code": "2820200",
+      "area": "尼崎市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820200",
+      "rank": 0
+    },
+    "2820200:洪水": {
+      "code": "2820200",
+      "area": "尼崎市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820200",
+      "rank": 0
+    },
+    "2820200:暴風": {
+      "code": "2820200",
+      "area": "尼崎市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820200",
+      "rank": 0
+    },
+    "2820200:暴風雪": {
+      "code": "2820200",
+      "area": "尼崎市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820200",
+      "rank": 0
+    },
+    "2820200:大雪": {
+      "code": "2820200",
+      "area": "尼崎市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820200",
+      "rank": 0
+    },
+    "2820300:大雨": {
+      "code": "2820300",
+      "area": "明石市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820300",
+      "rank": 0
+    },
+    "2820300:洪水": {
+      "code": "2820300",
+      "area": "明石市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820300",
+      "rank": 0
+    },
+    "2820300:暴風": {
+      "code": "2820300",
+      "area": "明石市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820300",
+      "rank": 0
+    },
+    "2820300:暴風雪": {
+      "code": "2820300",
+      "area": "明石市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820300",
+      "rank": 0
+    },
+    "2820300:大雪": {
+      "code": "2820300",
+      "area": "明石市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820300",
+      "rank": 0
+    },
+    "2820400:大雨": {
+      "code": "2820400",
+      "area": "西宮市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820400",
+      "rank": 0
+    },
+    "2820400:洪水": {
+      "code": "2820400",
+      "area": "西宮市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820400",
+      "rank": 0
+    },
+    "2820400:暴風": {
+      "code": "2820400",
+      "area": "西宮市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820400",
+      "rank": 0
+    },
+    "2820400:暴風雪": {
+      "code": "2820400",
+      "area": "西宮市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820400",
+      "rank": 0
+    },
+    "2820400:大雪": {
+      "code": "2820400",
+      "area": "西宮市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820400",
+      "rank": 0
+    },
+    "2820600:大雨": {
+      "code": "2820600",
+      "area": "芦屋市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820600",
+      "rank": 0
+    },
+    "2820600:洪水": {
+      "code": "2820600",
+      "area": "芦屋市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820600",
+      "rank": 0
+    },
+    "2820600:暴風": {
+      "code": "2820600",
+      "area": "芦屋市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820600",
+      "rank": 0
+    },
+    "2820600:暴風雪": {
+      "code": "2820600",
+      "area": "芦屋市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820600",
+      "rank": 0
+    },
+    "2820600:大雪": {
+      "code": "2820600",
+      "area": "芦屋市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820600",
+      "rank": 0
+    },
+    "2820700:大雨": {
+      "code": "2820700",
+      "area": "伊丹市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820700",
+      "rank": 0
+    },
+    "2820700:洪水": {
+      "code": "2820700",
+      "area": "伊丹市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820700",
+      "rank": 0
+    },
+    "2820700:暴風": {
+      "code": "2820700",
+      "area": "伊丹市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820700",
+      "rank": 0
+    },
+    "2820700:暴風雪": {
+      "code": "2820700",
+      "area": "伊丹市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820700",
+      "rank": 0
+    },
+    "2820700:大雪": {
+      "code": "2820700",
+      "area": "伊丹市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2820700",
+      "rank": 0
+    },
+    "2821000:大雨": {
+      "code": "2821000",
+      "area": "加古川市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821000",
+      "rank": 0
+    },
+    "2821000:洪水": {
+      "code": "2821000",
+      "area": "加古川市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821000",
+      "rank": 0
+    },
+    "2821000:暴風": {
+      "code": "2821000",
+      "area": "加古川市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821000",
+      "rank": 0
+    },
+    "2821000:暴風雪": {
+      "code": "2821000",
+      "area": "加古川市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821000",
+      "rank": 0
+    },
+    "2821000:大雪": {
+      "code": "2821000",
+      "area": "加古川市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821000",
+      "rank": 0
+    },
+    "2821400:大雨": {
+      "code": "2821400",
+      "area": "宝塚市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821400",
+      "rank": 0
+    },
+    "2821400:洪水": {
+      "code": "2821400",
+      "area": "宝塚市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821400",
+      "rank": 0
+    },
+    "2821400:暴風": {
+      "code": "2821400",
+      "area": "宝塚市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821400",
+      "rank": 0
+    },
+    "2821400:暴風雪": {
+      "code": "2821400",
+      "area": "宝塚市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821400",
+      "rank": 0
+    },
+    "2821400:大雪": {
+      "code": "2821400",
+      "area": "宝塚市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821400",
+      "rank": 0
+    },
+    "2821500:大雨": {
+      "code": "2821500",
+      "area": "三木市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821500",
+      "rank": 0
+    },
+    "2821500:洪水": {
+      "code": "2821500",
+      "area": "三木市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821500",
+      "rank": 0
+    },
+    "2821500:暴風": {
+      "code": "2821500",
+      "area": "三木市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821500",
+      "rank": 0
+    },
+    "2821500:暴風雪": {
+      "code": "2821500",
+      "area": "三木市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821500",
+      "rank": 0
+    },
+    "2821500:大雪": {
+      "code": "2821500",
+      "area": "三木市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821500",
+      "rank": 0
+    },
+    "2821600:大雨": {
+      "code": "2821600",
+      "area": "高砂市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821600",
+      "rank": 0
+    },
+    "2821600:洪水": {
+      "code": "2821600",
+      "area": "高砂市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821600",
+      "rank": 0
+    },
+    "2821600:暴風": {
+      "code": "2821600",
+      "area": "高砂市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821600",
+      "rank": 0
+    },
+    "2821600:暴風雪": {
+      "code": "2821600",
+      "area": "高砂市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821600",
+      "rank": 0
+    },
+    "2821600:大雪": {
+      "code": "2821600",
+      "area": "高砂市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821600",
+      "rank": 0
+    },
+    "2821700:大雨": {
+      "code": "2821700",
+      "area": "川西市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821700",
+      "rank": 0
+    },
+    "2821700:洪水": {
+      "code": "2821700",
+      "area": "川西市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821700",
+      "rank": 0
+    },
+    "2821700:暴風": {
+      "code": "2821700",
+      "area": "川西市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821700",
+      "rank": 0
+    },
+    "2821700:暴風雪": {
+      "code": "2821700",
+      "area": "川西市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821700",
+      "rank": 0
+    },
+    "2821700:大雪": {
+      "code": "2821700",
+      "area": "川西市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821700",
+      "rank": 0
+    },
+    "2821800:大雨": {
+      "code": "2821800",
+      "area": "小野市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821800",
+      "rank": 0
+    },
+    "2821800:洪水": {
+      "code": "2821800",
+      "area": "小野市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821800",
+      "rank": 0
+    },
+    "2821800:暴風": {
+      "code": "2821800",
+      "area": "小野市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821800",
+      "rank": 0
+    },
+    "2821800:暴風雪": {
+      "code": "2821800",
+      "area": "小野市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821800",
+      "rank": 0
+    },
+    "2821800:大雪": {
+      "code": "2821800",
+      "area": "小野市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821800",
+      "rank": 0
+    },
+    "2821900:大雨": {
+      "code": "2821900",
+      "area": "三田市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821900",
+      "rank": 0
+    },
+    "2821900:洪水": {
+      "code": "2821900",
+      "area": "三田市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821900",
+      "rank": 0
+    },
+    "2821900:暴風": {
+      "code": "2821900",
+      "area": "三田市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821900",
+      "rank": 0
+    },
+    "2821900:暴風雪": {
+      "code": "2821900",
+      "area": "三田市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821900",
+      "rank": 0
+    },
+    "2821900:大雪": {
+      "code": "2821900",
+      "area": "三田市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2821900",
+      "rank": 0
+    },
+    "2822000:大雨": {
+      "code": "2822000",
+      "area": "加西市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822000",
+      "rank": 0
+    },
+    "2822000:洪水": {
+      "code": "2822000",
+      "area": "加西市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822000",
+      "rank": 0
+    },
+    "2822000:暴風": {
+      "code": "2822000",
+      "area": "加西市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822000",
+      "rank": 0
+    },
+    "2822000:暴風雪": {
+      "code": "2822000",
+      "area": "加西市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822000",
+      "rank": 0
+    },
+    "2822000:大雪": {
+      "code": "2822000",
+      "area": "加西市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822000",
+      "rank": 0
+    },
+    "2822800:大雨": {
+      "code": "2822800",
+      "area": "加東市",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822800",
+      "rank": 0
+    },
+    "2822800:洪水": {
+      "code": "2822800",
+      "area": "加東市",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822800",
+      "rank": 0
+    },
+    "2822800:暴風": {
+      "code": "2822800",
+      "area": "加東市",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822800",
+      "rank": 0
+    },
+    "2822800:暴風雪": {
+      "code": "2822800",
+      "area": "加東市",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822800",
+      "rank": 0
+    },
+    "2822800:大雪": {
+      "code": "2822800",
+      "area": "加東市",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2822800",
+      "rank": 0
+    },
+    "2830100:大雨": {
+      "code": "2830100",
+      "area": "猪名川町",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2830100",
+      "rank": 0
+    },
+    "2830100:洪水": {
+      "code": "2830100",
+      "area": "猪名川町",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2830100",
+      "rank": 0
+    },
+    "2830100:暴風": {
+      "code": "2830100",
+      "area": "猪名川町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2830100",
+      "rank": 0
+    },
+    "2830100:暴風雪": {
+      "code": "2830100",
+      "area": "猪名川町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2830100",
+      "rank": 0
+    },
+    "2830100:大雪": {
+      "code": "2830100",
+      "area": "猪名川町",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2830100",
+      "rank": 0
+    },
+    "2838100:大雨": {
+      "code": "2838100",
+      "area": "稲美町",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838100",
+      "rank": 0
+    },
+    "2838100:洪水": {
+      "code": "2838100",
+      "area": "稲美町",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838100",
+      "rank": 0
+    },
+    "2838100:暴風": {
+      "code": "2838100",
+      "area": "稲美町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838100",
+      "rank": 0
+    },
+    "2838100:暴風雪": {
+      "code": "2838100",
+      "area": "稲美町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838100",
+      "rank": 0
+    },
+    "2838100:大雪": {
+      "code": "2838100",
+      "area": "稲美町",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838100",
+      "rank": 0
+    },
+    "2838200:大雨": {
+      "code": "2838200",
+      "area": "播磨町",
+      "name": "大雨警報",
+      "level": "warning",
+      "phenomenon": "大雨",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838200",
+      "rank": 0
+    },
+    "2838200:洪水": {
+      "code": "2838200",
+      "area": "播磨町",
+      "name": "洪水警報",
+      "level": "warning",
+      "phenomenon": "洪水",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838200",
+      "rank": 0
+    },
+    "2838200:暴風": {
+      "code": "2838200",
+      "area": "播磨町",
+      "name": "暴風警報",
+      "level": "warning",
+      "phenomenon": "暴風",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838200",
+      "rank": 0
+    },
+    "2838200:暴風雪": {
+      "code": "2838200",
+      "area": "播磨町",
+      "name": "暴風雪警報",
+      "level": "warning",
+      "phenomenon": "暴風雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838200",
+      "rank": 0
+    },
+    "2838200:大雪": {
+      "code": "2838200",
+      "area": "播磨町",
+      "name": "大雪警報",
+      "level": "warning",
+      "phenomenon": "大雪",
+      "active": false,
+      "issuedAt": "2026-10-08T06:41:00+09:00",
+      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2838200",
       "rank": 0
     }
   },
