@@ -64594,30 +64594,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4622200",
-      "area": "奄美市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-11T00:03:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4622200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4652700",
-      "area": "龍郷町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-11T00:03:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4652700",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
