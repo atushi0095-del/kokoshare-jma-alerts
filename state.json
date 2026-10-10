@@ -64572,30 +64572,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4650200",
-      "area": "南種子町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-10T09:47:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4650200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4650500",
-      "area": "屋久島町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-10T09:47:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4650500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
