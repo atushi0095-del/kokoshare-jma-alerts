@@ -66420,54 +66420,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4730100",
-      "area": "国頭村",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-12T04:28:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4730100",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4730200",
-      "area": "大宜味村",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-12T04:28:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4730200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4730300",
-      "area": "東村",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-12T04:28:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4730300",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4735900",
-      "area": "伊平屋村",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-12T04:28:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4735900",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
