@@ -66420,18 +66420,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4731500",
-      "area": "伊江村",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-12T08:25:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4731500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
