@@ -70061,30 +70061,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "3820700",
-      "area": "大洲市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-13T23:56:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=3820700",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "3842200",
-      "area": "内子町",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-13T23:56:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=3842200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
