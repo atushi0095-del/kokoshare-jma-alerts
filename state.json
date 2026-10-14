@@ -76188,30 +76188,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1521200",
-      "area": "村上市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-14T15:17:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1521200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "0123500",
-      "area": "石狩市",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": true,
-      "issuedAt": "2026-10-14T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0123500",
-      "rank": 0,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
