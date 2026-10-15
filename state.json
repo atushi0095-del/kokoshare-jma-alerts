@@ -77563,30 +77563,5 @@
       "rank": 1
     }
   },
-  "pending": [
-    {
-      "code": "1220200",
-      "area": "銚子市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-16T06:40:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1220200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "0823200",
-      "area": "神栖市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-16T06:39:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0823200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
