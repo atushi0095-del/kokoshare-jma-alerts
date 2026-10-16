@@ -78443,18 +78443,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0521400",
-      "area": "にかほ市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-16T14:27:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0521400",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
