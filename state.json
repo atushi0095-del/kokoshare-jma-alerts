@@ -80720,42 +80720,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4520300",
-      "area": "延岡市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-19T00:50:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4520300",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4520600",
-      "area": "日向市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-19T00:50:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4520600",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4540600",
-      "area": "都農町",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-19T00:50:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4540600",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
