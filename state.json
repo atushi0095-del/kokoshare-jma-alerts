@@ -80940,30 +80940,5 @@
       "rank": 1
     }
   },
-  "pending": [
-    {
-      "code": "0134601",
-      "area": "八雲町八雲",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-19T10:40:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0134601",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "0120200",
-      "area": "函館市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-19T10:40:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0120200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
