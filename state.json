@@ -80940,54 +80940,5 @@
       "rank": 1
     }
   },
-  "pending": [
-    {
-      "code": "1520200",
-      "area": "長岡市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-20T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1520200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4630400",
-      "area": "十島村",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-20T16:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4630400",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1620500",
-      "area": "氷見市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-20T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1620500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1634200",
-      "area": "入善町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-20T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1634200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
