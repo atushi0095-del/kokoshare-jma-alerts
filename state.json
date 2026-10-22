@@ -82722,30 +82722,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4721100",
-      "area": "沖縄市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-22T10:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4721100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4735000",
-      "area": "南風原町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-22T10:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4735000",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
