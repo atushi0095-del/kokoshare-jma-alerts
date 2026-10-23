@@ -83162,30 +83162,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4721400",
-      "area": "宮古島市",
-      "name": "レベル３大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-23T13:22:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4721400",
-      "rank": 1,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "4721400",
-      "area": "宮古島市",
-      "name": "レベル３大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-23T13:22:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4721400",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
