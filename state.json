@@ -91016,42 +91016,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1521600",
-      "area": "糸魚川市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-28T02:01:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1521600",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1521700",
-      "area": "妙高市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-28T02:01:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1521700",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1522200",
-      "area": "上越市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-28T02:01:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1522200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
