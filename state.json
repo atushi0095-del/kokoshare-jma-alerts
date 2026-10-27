@@ -90994,30 +90994,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0136300",
-      "area": "厚沢部町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": true,
-      "issuedAt": "2026-10-27T15:34:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
-      "rank": 1,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "0145700",
-      "area": "上川町",
-      "name": "大雪注意報",
-      "level": "advisory",
-      "phenomenon": "大雪",
-      "active": true,
-      "issuedAt": "2026-10-27T15:34:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0145700",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
