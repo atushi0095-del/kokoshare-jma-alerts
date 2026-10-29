@@ -91412,18 +91412,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1522400",
-      "area": "佐渡市",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-10-29T09:56:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1522400",
-      "rank": 0,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
