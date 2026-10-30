@@ -91709,30 +91709,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0521000",
-      "area": "由利本荘市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-30T23:01:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0521000",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1720200",
-      "area": "七尾市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-10-31T02:50:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1720200",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
