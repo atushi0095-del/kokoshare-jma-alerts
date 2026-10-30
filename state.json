@@ -92490,30 +92490,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0620400",
-      "area": "酒田市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-31T06:44:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0620400",
-      "rank": 0,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "1820200",
-      "area": "敦賀市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-10-31T06:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1820200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
