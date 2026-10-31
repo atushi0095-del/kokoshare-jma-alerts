@@ -94580,54 +94580,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1550400",
-      "area": "刈羽村",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-01T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1550400",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4520600",
-      "area": "日向市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-01T04:06:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4520600",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4540500",
-      "area": "川南町",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-01T04:06:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4540500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4540600",
-      "area": "都農町",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-01T04:06:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4540600",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
