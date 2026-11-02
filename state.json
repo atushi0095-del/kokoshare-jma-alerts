@@ -94624,42 +94624,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0151700",
-      "area": "礼文町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-03T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0151700",
-      "rank": 0,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "0151800",
-      "area": "利尻町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-03T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0151800",
-      "rank": 0,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "0151900",
-      "area": "利尻富士町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-03T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0151900",
-      "rank": 0,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
