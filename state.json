@@ -94734,30 +94734,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1338100",
-      "area": "三宅村",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-04T15:44:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1338100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "0136300",
-      "area": "厚沢部町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-04T10:06:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0136300",
-      "rank": 0,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
