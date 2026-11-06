@@ -94734,18 +94734,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1244100",
-      "area": "大多喜町",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-06T10:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1244100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
