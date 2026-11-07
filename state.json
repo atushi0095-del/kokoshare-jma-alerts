@@ -95086,18 +95086,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0636700",
-      "area": "戸沢村",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-07T22:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0636700",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
