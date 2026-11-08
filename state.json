@@ -95394,30 +95394,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1520200",
-      "area": "長岡市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-09T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1520200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1520500",
-      "area": "柏崎市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-09T04:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1520500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
