@@ -95361,18 +95361,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0145700",
-      "area": "上川町",
-      "name": "大雪注意報",
-      "level": "advisory",
-      "phenomenon": "大雪",
-      "active": true,
-      "issuedAt": "2026-11-08T09:38:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0145700",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
