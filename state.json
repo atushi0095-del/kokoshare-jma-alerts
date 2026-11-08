@@ -95361,30 +95361,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "2221100",
-      "area": "磐田市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-08T22:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2221100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "2222100",
-      "area": "湖西市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-08T22:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2222100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
