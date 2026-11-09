@@ -95394,30 +95394,5 @@
       "rank": 1
     }
   },
-  "pending": [
-    {
-      "code": "0110000",
-      "area": "札幌市",
-      "name": "大雪注意報",
-      "level": "advisory",
-      "phenomenon": "大雪",
-      "active": false,
-      "issuedAt": "2026-11-10T04:19:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0110000",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "0121700",
-      "area": "江別市",
-      "name": "大雪注意報",
-      "level": "advisory",
-      "phenomenon": "大雪",
-      "active": false,
-      "issuedAt": "2026-11-10T04:19:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0121700",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
