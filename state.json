@@ -95394,30 +95394,5 @@
       "rank": 1
     }
   },
-  "pending": [
-    {
-      "code": "4220700",
-      "area": "平戸市",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-10T21:54:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220700",
-      "rank": 1,
-      "notifyLevel": "warning"
-    },
-    {
-      "code": "4220800",
-      "area": "松浦市",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-10T21:54:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220800",
-      "rank": 1,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
