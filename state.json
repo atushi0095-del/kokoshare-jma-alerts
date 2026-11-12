@@ -95416,18 +95416,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "0169400",
-      "area": "羅臼町",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-12T09:47:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=0169400",
-      "rank": 1,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
