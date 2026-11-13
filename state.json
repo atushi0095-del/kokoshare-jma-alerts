@@ -95416,18 +95416,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1342100",
-      "area": "小笠原村",
-      "name": "暴風警報",
-      "level": "warning",
-      "phenomenon": "暴風",
-      "active": false,
-      "issuedAt": "2026-11-13T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1342100",
-      "rank": 0,
-      "notifyLevel": "warning"
-    }
-  ]
+  "pending": []
 }
