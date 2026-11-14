@@ -95779,30 +95779,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4220201",
-      "area": "佐世保市（宇久地域を除く）",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-14T17:18:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220201",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4220700",
-      "area": "平戸市",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-14T17:18:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4220700",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
