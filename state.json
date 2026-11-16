@@ -96087,18 +96087,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4738100",
-      "area": "竹富町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-16T09:56:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4738100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
