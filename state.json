@@ -96131,54 +96131,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "1340100",
-      "area": "八丈町",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-16T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1340100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "1340200",
-      "area": "青ヶ島村",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-16T16:57:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=1340200",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4653400",
-      "area": "知名町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-16T16:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4653400",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4420500",
-      "area": "佐伯市",
-      "name": "大雨警報",
-      "level": "warning",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-16T16:58:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4420500",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
