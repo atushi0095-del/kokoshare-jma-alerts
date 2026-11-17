@@ -96131,42 +96131,5 @@
       "rank": 0
     }
   },
-  "pending": [
-    {
-      "code": "4520100",
-      "area": "宮崎市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-17T11:11:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4520100",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4520600",
-      "area": "日向市",
-      "name": "レベル２大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": true,
-      "issuedAt": "2026-11-17T11:11:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4520600",
-      "rank": 1,
-      "notifyLevel": "advisory"
-    },
-    {
-      "code": "4738100",
-      "area": "竹富町",
-      "name": "大雨注意報",
-      "level": "advisory",
-      "phenomenon": "大雨",
-      "active": false,
-      "issuedAt": "2026-11-17T03:56:00+09:00",
-      "url": "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=4738100",
-      "rank": 0,
-      "notifyLevel": "advisory"
-    }
-  ]
+  "pending": []
 }
